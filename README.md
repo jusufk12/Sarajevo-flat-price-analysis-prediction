@@ -4,3 +4,6 @@ After some basic preprocessing and cleansing of data, the best result gave Decis
 
 Raw data as well as cleaned data with possible features that i thougth would be of some use in increasing the accuracy can be found in this repository. 
 Preprocessing of the data and algorithms in another file.
+
+
+Clusters have been made manually. I tried with DBSCAN but didnt work (need to imrpve myself) :)
